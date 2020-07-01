@@ -8,4 +8,4 @@ Phrases are generated in two parts:
 2. A 'verb' is chosen randomly from another array of options. 
 The two parts are then combined and shown to the user.
 
-HTML/JavaScript with Bootstrap. 
+Written in Python initially, then ported to HTML/JavaScript with Bootstrap. 
