@@ -9,3 +9,6 @@ Phrases are generated in two parts:
 The two parts are then combined and shown to the user.
 
 Written in Python initially, then ported to HTML/JavaScript with Bootstrap. 
+
+See it in action here:
+https://zhanknight.github.io/Spy-Phrase-Generator/SpyPhraseGenerator.html
